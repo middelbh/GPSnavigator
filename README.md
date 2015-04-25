@@ -7,7 +7,7 @@ Put these BMP's on an SD card, together with boundkl.dat; this last file gives t
 
 Some remarks:
 
-1) not yet completely tested with the GPS unit,
+1) now tested with the GPS unit,
 
 2) problems still exist when at a position on a map at the boundaries, I do not yet have sufficient space to display data       from multiple maps in one screen. That's why I need to make the sketch smaller.
 
