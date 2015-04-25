@@ -4,6 +4,9 @@ Super low cost GPS navigation system based on Arduino UNO, 320x240 TFT and GPS u
 I now added the .ino file. It is based on the topo maps of the Netherlands in 8 bit BMP format. 
 You will have to convert the GEOTIFFS from top25raster (www.kadaster.nl) into the BMP format (e.g. with Irfanview).
 Put these BMP's on an SD card, together with boundkl.dat; this last file gives the boundaries of the BMP maps.
+Connection as follows:
+
+https://cloud.githubusercontent.com/assets/6168461/7332343/58d35eea-eb3b-11e4-94ed-497ac8ce6f8a.png
 
 Some remarks:
 
